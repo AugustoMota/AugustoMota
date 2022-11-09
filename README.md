@@ -9,11 +9,12 @@
 * React Native
 
 ## BACKEND
-*Spring Boot
-*Java
+* Spring Boot
+* Java
 
 ## 🧪 Teste
-
+* Mock Service Worker
+* Jest & Testing Library
 
 
 
