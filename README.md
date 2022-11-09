@@ -1,30 +1,16 @@
-Hi , I'm Augusto Mota
+## Hi , I'm Augusto Mota 🚀🚀🚀🚀🚀
 
+👨‍💻 
+### Desenvolvedor Web 💻    ## 👨🏾‍💻 Techs
 
-🔥 Sênior Web Developer & Instructor focused on helping people start programming
+                              * Javascript
+                              * HTML
+                              * CSS
+                              * React Js
+                              * React Native
+                              * Spring Boot Java
+****
 
-🔭 I’m currently working at Rocketseat
-
-▶️ I (not) regularly post videos on youtube.com/maykbrito
-
-💬 Ask me about JavaScript, HTML, CSS, SQL, ReacJs
-
-⚡ Fun fact Oneye 😜
-
-👨‍💻 More at maykbrito.dev
-
-
-### Desenvolvedor Web 💻 
-
-
-## 👨🏾‍💻 Techs
-
-* Javascript
-* HTML
-* CSS
-* React Js
-* React Native
-* Spring Boot Java
 
 ## FRONTEND
 * React Js
