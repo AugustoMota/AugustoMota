@@ -1,19 +1,38 @@
 Hi , I'm Augusto Mota
 
 
+🔥 Sênior Web Developer & Instructor focused on helping people start programming
+
+🔭 I’m currently working at Rocketseat
+
+▶️ I (not) regularly post videos on youtube.com/maykbrito
+
+💬 Ask me about JavaScript, HTML, CSS, SQL, ReacJs
+
+⚡ Fun fact Oneye 😜
+
+👨‍💻 More at maykbrito.dev
+
 
 ### Desenvolvedor Web 💻 
 
 
-
-
 ## 👨🏾‍💻 Techs
-*React Js
+
 * Javascript
 * HTML
 * CSS
-* Electron
-* Node.js
+* React Js
+* React Native
+* Spring Boot Java
+
+## FRONTEND
+* React Js
+* React Native
+
+## BACKEND
+  Spring Boot
+
 
 ## 🧪 Teste
 *SSS
