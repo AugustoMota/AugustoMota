@@ -1,4 +1,4 @@
-## Oiii eu sou a Augusto do Nascimento Mota Desenvolvedor Full Stack! 🚀🚀🚀🚀🚀
+## Oiii eu sou a Augusto Mota Desenvolvedor Full Stack! 🚀🚀🚀🚀🚀
 <div align="center">
   <a href="https://github.com/AugustoMota">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoMota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
