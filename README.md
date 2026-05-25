@@ -19,7 +19,7 @@
 ## Linguagens
 * Python <img lign="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   
-* Java <img lign="center" alt="Rafa-HTML" height="30" width="40" src="https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi.svg" />
+* R <img lign="center" alt="Rafa-HTML" height="40" width="50" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"/>
   
 ## 🧪 Teste
  
